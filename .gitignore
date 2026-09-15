@@ -1,0 +1,10 @@
+
+/small_final_exp1
+*.csv
+target/
+/output
+*.jar
+*.class
+/logs/
+.agents/
+.codex/
